@@ -1,0 +1,43 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.elf
+*.bin
+*.iso
+
+# Object files
+*.obj
+*.ko
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*.bak
+*.tmp
+
+# Debug
+*.gdb_history
+vgcore.*
+
+# ISO directory
+iso/
+
+# VirtualBox
+*.vdi
+*.log
+
+# Temporary files
+*~
+*.tmp
