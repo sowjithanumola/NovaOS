@@ -50,6 +50,4 @@ See [docs/BUILDING.md](docs/BUILDING.md) for comprehensive build instructions.
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for system design overview.
 
-## License
 
-MIT License - See LICENSE file
